@@ -7,6 +7,6 @@ int main() {
   cout<<sizeof(A)<<endl;
   cout<<A[8]<<endl;
   cout<<A[4]<<endl;
-
+  cout<<A[2]<<endl;
   return 0;
 }
